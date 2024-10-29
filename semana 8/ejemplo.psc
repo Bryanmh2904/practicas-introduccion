@@ -1,3 +1,8 @@
 Algoritmo sin_titulo
-	Escribir "hola"
+	definir nombre Como Caracter
+	Escribir "hola mundo"
+	leer nombre
+	
+	Escribir nombre
+	
 FinAlgoritmo
